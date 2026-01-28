@@ -1,1 +1,24 @@
+# ===== Keil Build Output =====
+Objects/
+Listings/
+
+# ===== Object / Output Files =====
+*.o
+*.axf
+*.map
+*.lst
+*.crf
+*.dep
+
+# ===== Keil User / IDE Files =====
+*.uvoptx
+
+# ===== Backup / Temp Files =====
+*.bak
+*.tmp
+*.~*
+
+# ===== OS Junk =====
+Thumbs.db
+.DS_Store
 
